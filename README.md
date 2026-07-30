@@ -13,12 +13,6 @@ An issue here is a record for future reference and discussion, not a roadmap com
 
 This repository is intentionally issue-only. Apart from this README and its automation, it contains no product files. Do not open implementation pull requests here.
 
-## Visibility and participation
-
-The repository is public so anyone can follow the team's thinking, but only people with write access may interact. Keep write access limited to Rolldown members: GitHub also permits outside collaborators who have write access.
-
-GitHub's interaction limit lasts at most six months. Renew it before it expires.
-
 ## Using AI
 
 AI may be used for search, research, and investigation.
