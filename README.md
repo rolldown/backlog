@@ -2,33 +2,32 @@
 
 ## Purpose
 
-This is Rolldown's long-horizon backlog. It records:
+This is Rolldown's long-term backlog for recording:
 
-- limitations, pressure points, and complaints about the current architecture;
-- ideas, experiments, and design directions that could unlock future capabilities; and
-- improvements we may consider later but that are not current work.
+- architectural limitations and complaints that emerge as we pursue more powerful future capabilities; and
+- ideas and design directions worth returning to later.
 
-An issue here is a record for future discussion, not a commitment, a roadmap item, or an implementation request. It may be incomplete, speculative, or eventually rejected. When a topic becomes active work and has enough detail, maintainers will move it to the [main Rolldown repository](https://github.com/rolldown/rolldown).
+An issue here is a record for future reference and discussion, not a roadmap commitment or implementation request. It may be incomplete, speculative, or ultimately rejected. When a topic becomes active work, maintainers will move it to the [main Rolldown repository](https://github.com/rolldown/rolldown).
 
 ## Scope
 
-This repository is intentionally issue-based. Apart from this README and repository automation, it has no product source or project files. Do not open implementation pull requests here.
+This repository is intentionally issue-only. Apart from this README and its automation, it contains no product files. Do not open implementation pull requests here.
 
 ## Visibility and participation
 
-This repository is public so anyone can follow the team's thinking. To keep room for early and unpolished ideas, interaction is limited to people with write access to this repository. That access should be granted only to Rolldown members; giving write access to an outside collaborator also gives them access to participate.
+The repository is public so anyone can follow the team's thinking, but only people with write access may interact. Keep write access limited to Rolldown members: GitHub also permits outside collaborators who have write access.
 
-GitHub applies this public-repository interaction limit for at most six months. Maintainers must renew it before it expires.
+GitHub's interaction limit lasts at most six months. Renew it before it expires.
 
 ## Using AI
 
-Using AI for search, research, and investigation is welcome.
+AI may be used for search, research, and investigation.
 
 Any content substantially generated or posted by an AI agent must start with a prominent disclosure, for example:
 
-> **AI-generated / AI-posted content — prepared by `<agent or tool>` for @`<responsible-person>`**
+> **AI disclosure: generated or posted by `<agent or tool>` for @`<responsible-person>`.**
 
-Please do not let AI speak for you. It can help gather evidence or prepare a draft, but the responsible person should review it, make their own judgment, and state their own conclusion. Positions and decisions belong to people, not agents.
+We recommend not letting AI speak for you. Use it to gather evidence or prepare a draft, then review it and state your own conclusion.
 
 ## Issues
 
